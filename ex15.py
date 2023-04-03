@@ -31,7 +31,7 @@ txt.close()
 
 # 利用 input() 方法让用再输入一遍文件名
 print("Type the filename again:")
-file_again  = input()
+file_again = input()
 
 # 用 open() 打开文件，并把流返回给 txt_again 变量
 txt_again = open(file_again)
@@ -40,7 +40,6 @@ txt_again = open(file_again)
 print(txt_again.read())
 
 txt_again.close()
-
 
 
 # read()

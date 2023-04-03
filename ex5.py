@@ -8,16 +8,16 @@
 
 
 name = 'Zed A. Shaw'
-age = 35 # not a lie
-height = 74 # inches
-weight = 180 # lbs
+age = 35  # not a lie
+height = 74  # inches
+weight = 180  # lbs
 eyes = 'Blue'
 teeth = 'White'
 hair = 'Brown'
 
 # round() 四舍五入
-height_cm = round(height * 2.54) # 1 inch = 2.54 cms
-weight_kg = round(weight * 0.4535924) # 1 lb = 0.4535924 kgs
+height_cm = round(height * 2.54)  # 1 inch = 2.54 cms
+weight_kg = round(weight * 0.4535924)  # 1 lb = 0.4535924 kgs
 
 print(f"Let's talk about {name}.")
 print(f"He's {height} inches ({height_cm} centimeters) high.")

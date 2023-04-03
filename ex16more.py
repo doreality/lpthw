@@ -3,7 +3,7 @@ from sys import argv
 script, filename = argv
 
 print(f"Now open the file {filename}...")
-# 'w' for writing 
+# 'w' for writing
 # (truncating the file if it already exists)
 target = open(filename, 'w+')
 

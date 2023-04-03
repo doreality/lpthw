@@ -33,7 +33,7 @@ print("Character with 32-bit hex value xxxxxxxx(Unicode only): \U0001f4a5")
 # 垂直制表(VT)
 print("ASCII vertical tab(VT): \v")
 
-# 八进制代表的任意字符 
+# 八进制代表的任意字符
 print("Character with octal value: \101")
 
 # 十六进制所代表的任意字符 1111 1111

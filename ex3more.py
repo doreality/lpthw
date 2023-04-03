@@ -12,4 +12,4 @@ print("I want to achieve my ideal weight within this year.")
 
 print("Every month I have to lose", 9.4 / 4, "kg.")
 
-print("Every week I have to lose", 9.4 / 17, "kg." )
+print("Every week I have to lose", 9.4 / 17, "kg.")

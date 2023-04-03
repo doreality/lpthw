@@ -20,5 +20,5 @@ print(f"So, you're {age} old, {height} tall and {weight} heavy.")
 
 # python3.x 中的 input() 默认接收的是 字符串 str
 
-x = int(input("input x:")) # 进行一下强制转换
+x = int(input("input x:"))  # 进行一下强制转换
 print(type(x))

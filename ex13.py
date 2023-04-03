@@ -8,7 +8,7 @@
 # 有些程序员还叫做 libraries 库
 
 # module == libraries == package
-# import module : 导入整个模块  
+# import module : 导入整个模块
 # from module import feature : 导入模块中的某个功能
 
 # argv = argument variable

@@ -37,9 +37,11 @@ def bjyxszd(scores):
 # error missing 1 required positional argument
 # bjyxszd()
 
+
 # 10 use variable to call(but no return?)
 # 可以执行！
 # 没有返回值的函数给变量赋值，是无意义的
 # 结果就是函数会执行，但是变量是 NoneType
-have_a_try = bjyxszd(95)
-print(type(have_a_try)) # 'NoneType'
+score = 95
+have_a_try = bjyxszd(score)
+print(type(have_a_try))  # 'NoneType'

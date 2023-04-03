@@ -3,7 +3,7 @@
 from sys import argv
 
 script, user_name = argv
-prompt = '> ' # 用户提示符
+prompt = '> '  # 用户提示符
 # 单独表示出来，而不是在input()中一遍遍写
 
 

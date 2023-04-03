@@ -5,7 +5,7 @@
 formatter = "{} {} {} {}"
 
 # format()函数，把{}替换成参数变量
-print(formatter.format(1,2,3,4))
+print(formatter.format(1, 2, 3, 4))
 print(formatter.format("one", "two", "three", "four"))
 # True 和 False 是 Python 的关键字，表示“对”和“错”
 print(formatter.format(True, False, False, True))

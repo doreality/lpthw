@@ -8,7 +8,7 @@
 # write('stuff') - 给文件写一些'stuff'
 # seek(0) - 把读、写的位置移到文件的最开头
 
-from sys import argv 
+from sys import argv
 
 script, filename = argv
 

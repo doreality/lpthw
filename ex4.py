@@ -8,7 +8,7 @@
 # 汽车数量
 cars = 100
 # 一辆车的容量（空间，可乘坐人数？）
-space_in_a_car = 4.0 # space_in_a_car = 4
+space_in_a_car = 4.0  # space_in_a_car = 4
 # 司机数量
 drivers = 30
 # 乘客数量

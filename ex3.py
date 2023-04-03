@@ -16,7 +16,7 @@
 # Exponents ** （ ^ = XOR )
 # Multiplication *
 # Division /
-# Addition + 
+# Addition +
 # Subtraction -
 
 
@@ -34,7 +34,7 @@ print("Now I will count the eggs:")
 # do some calculating about the number of eggs
 print(3 + 2 + 1 - 5 + 4 % 2 - 1.0 / 4 + 6)
 
-# compare 3+2 and 5-7 
+# compare 3+2 and 5-7
 print("Is it true that 3 + 2 < 5 - 7?")
 
 # print the comparative result: False

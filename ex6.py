@@ -24,13 +24,13 @@ print(f"I said: {x}")
 print(f"I also said: '{y}'")
 
 # 定义布尔型变量 hilarious
-hilarious = False
+hilarious = 'hh{}'
 # 定义字符串变量 joke_evaluation
 joke_evaluation = "Isn't that joke so funny?! {}"
 
 # 用格式 .format() 把 hilarious 插入到 joke_evaluation 并输出
 # 多重 .format() 也可以
-print(joke_evaluation.format(hilarious))
+print(joke_evaluation.format(hilarious).format("hello{}").format("again"))
 
 # 定义字符串变量 w 和 e
 w = "This is the left side of..."
