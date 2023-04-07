@@ -4,11 +4,10 @@ from sys import argv
 
 script, user_name = argv
 prompt = '> '  # 用户提示符
-# 单独表示出来，而不是在input()中一遍遍写
-
+# 单独表示出来，而不是在input () 中一遍遍写
 
 print(f"Hi {user_name}, I'm the {script} script.")
-print(f"I'd like to ask you a few questions.")
+print("I'd like to ask you a few questions.")
 print(f"Do you like me {user_name}?")
 likes = input(prompt)
 

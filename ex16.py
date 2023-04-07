@@ -1,11 +1,11 @@
 # ex16.py 读写文件
 
 # 记住命令：
-# close - 关闭文件，"文件->另存为"
-# read - 读取文件内容，可以把读取结果赋给一个变量
-# readline - 只读取文本文件的一行内容
-# truncate - 清空文件。清空时要当心
-# write('stuff') - 给文件写一些'stuff'
+# close() - 关闭文件，"文件->另存为"
+# read() - 读取文件内容，可以把读取结果赋给一个变量
+# readline() - 只读取文本文件的一行内容
+# truncate() - 清空文件。清空时要当心
+# write('stuff') - 给文件写 'stuff'
 # seek(0) - 把读、写的位置移到文件的最开头
 
 from sys import argv

@@ -45,7 +45,7 @@ print("What is 3 + 2?", 3 + 2)
 # calculate the answer of 5-7
 print("What is 5 - 7?", 5 - 7)
 
-# print the answer why 3+2 is not less than 5-7
+# print the answer why 3 + 2 is not less than 5 - 7
 print("Oh, that's why it's False.")
 
 # print more comparision

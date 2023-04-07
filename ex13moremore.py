@@ -12,5 +12,5 @@ fourth = input("The next is:")
 
 print("The fouth number is:", fourth)
 
-# 全是 <class 'str>
+# 全是 <class 'str'>
 print(type(script), type(first), type(second), type(third), type(fourth))

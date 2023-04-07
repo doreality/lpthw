@@ -5,6 +5,7 @@
 from sys import argv
 from os.path import exists
 
+# test.txt -> new_test.txt
 script, from_file, to_file = argv
 
 print(f"Copying from {from_file} to {to_file}")

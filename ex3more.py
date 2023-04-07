@@ -1,6 +1,6 @@
 print("Now I will count the weights:")
 
-print("My current weight is 65.4 kg.")
+print("My current weight is 64.5 kg.")
 
 print("My ideal weight is 56.0 kg.")
 
@@ -10,6 +10,6 @@ print("So I have to lose ", 65.4 - 56.0, " kg.")
 
 print("I want to achieve my ideal weight within this year.")
 
-print("Every month I have to lose", 9.4 / 4, "kg.")
+print("Every month I have to lose", 9.4 / 9, "kg.")
 
-print("Every week I have to lose", 9.4 / 17, "kg.")
+print("Every week I have to lose", 9.4 / 36, "kg.")

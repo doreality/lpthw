@@ -9,25 +9,24 @@
 
 # this one is like your scripts with argv
 def print_two(*args):
+    """ get arguments in a list, and print them out 
+        *args 将所有的参数都存入 args, 成为一个列表 """
     arg1, arg2 = args
     print(f"arg1: {arg1}, arg2: {arg2}")
 
-# ok, that *args is actually pointless, we can just do this
-
 
 def print_two_again(arg1, arg2):
+    ''' get two arguments, and print them out '''
     print(f"arg1: {arg1}, arg2: {arg2}")
-
-# this just takes one argument
 
 
 def print_one(arg1):
+    ''' get one arg and print it out '''
     print(f"arg1: {arg1}")
-
-# this one takes no arguments
 
 
 def print_none():
+    ''' take no arg '''
     print("I got nothin'.")
 
 

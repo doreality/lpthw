@@ -4,7 +4,7 @@
 # f"{var}"
 # "some strings and {}".format(var)
 
-# 声明数字变量 types_of_people 
+# 声明数字变量 types_of_people
 types_of_people = 10
 # 声明字符串变量 x，并用格式字符串，插入 types_of_people
 x = f"There are {types_of_people} types of people."
@@ -36,6 +36,7 @@ print(joke_evaluation.format(hilarious).format("hello{}").format("again"))
 w = "This is the left side of..."
 e = "a string with a right side."
 
-# 把 w 和 e 拼接并输出
-# 为什么 + 运算符可以让两个字符串连接？就。。很合理～
+# +: concatenation 把 w 和 e 拼接并输出
 print(w + e)
+# , 会有一个空格
+print(w, e)

@@ -10,4 +10,4 @@ weight = input("How much do you weight?")
 
 print(f"So, you're {age} old, {height} tall, {weight} heavy.")
 
-print("How old are you?", input())
+print("How old are you?", input())  # 会先读取输入，然后再把这句话显示（顺序有问题）
