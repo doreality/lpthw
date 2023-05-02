@@ -7,3 +7,9 @@ Notes and Codes
 Python Version：Python 3.6.15
 
 Text Editor：VS Code
+
+- [Function Checklist](ex19_function_checklist.md) - ex19
+- [Symbol List](ex22_symbol_list.md) - ex22
+- [Truth Table](ex27_truth_table.md) - ex27
+- [Rules for designing and debugging](ex36_rules_design_and_debug.md) - ex36
+-
