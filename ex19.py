@@ -1,6 +1,7 @@
-# ex19.py 函数和变量
+"""ex19.py 函数和变量"""
 
 # 函数里的变量和脚本里的变量没有关系
+
 
 def cheese_and_crackers(cheese_count, boxes_of_crackers):
     ''' 定义函数 cheese_and_crackers

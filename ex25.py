@@ -1,4 +1,5 @@
-# ex25.py 更更多练习
+"""ex25.py 更更多练习"""
+
 
 def break_words(stuff):
     """This function will break words for us."""

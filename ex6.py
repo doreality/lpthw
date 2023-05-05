@@ -1,8 +1,10 @@
-# ex6.py 字符串和文本
+"""
+ex6.py 字符串和文本
 
-# 字符串可以包含任意数量多变量
-# f"{var}"
-# "some strings and {}".format(var)
+字符串可以包含任意数量多变量
+f"{var}"
+"some strings and {}".format(var)
+"""
 
 # 声明数字变量 types_of_people
 types_of_people = 10

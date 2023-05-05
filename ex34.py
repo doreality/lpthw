@@ -1,4 +1,4 @@
-# ex34.py 获取列表元素
+"""ex34.py 获取列表元素"""
 
 # 序数 ordinal number (1st, 2nd, 3rd, ...) == ordered, have to start from 1st
 # 基数 cardinal number (0, 1, 2, 3, ...) == random accessed, cards at random

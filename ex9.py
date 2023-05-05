@@ -1,4 +1,4 @@
-# ex9.py 打印，打印，打印
+"""ex9.py 打印，打印，打印"""
 
 
 # Here's some new strange stuff, remember type it exactly.

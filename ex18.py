@@ -1,13 +1,17 @@
-# ex18.py 名称，变量，代码，函数
+"""
+ex18.py 名称，变量，代码，函数
 
-# 函数
-# 1. 为代码起名字
-# 2. 像脚本获取 argv 一样获取参数（arguments）
-# 3. 通过 1 和 2 的操作，可以做一些"小脚本"或"微命令"
+函数
+1. 为代码起名字
+2. 像脚本获取 argv 一样获取参数（arguments）
+3. 通过 1 和 2 的操作，可以做一些"小脚本"或"微命令"
+"""
 
 # 通过 def 来创建函数
 
 # this one is like your scripts with argv
+
+
 def print_two(*args):
     """ get arguments in a list, and print them out 
         *args 将所有的参数都存入 args, 成为一个列表 """

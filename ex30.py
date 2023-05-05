@@ -1,4 +1,4 @@
-# ex30.py Else 和 if
+"""ex30.py Else 和 if"""
 
 people = 30
 cars = 40

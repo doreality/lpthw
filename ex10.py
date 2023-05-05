@@ -1,11 +1,13 @@
-# ex10.py 那是什么？
+"""
+ex10.py 那是什么？
 
-# \ 转义字符 escape sequence
-# 可以把没法输入的字符转化为字符串
+\ 转义字符 escape sequence
+可以把没法输入的字符转化为字符串
 
-# 转义单引号和双引号
-# 1. 用 \' 和 \"
-# 2. 用三个双引号
+转义单引号和双引号
+1. 用 \' 和 \"
+2. 用三个双引号
+"""
 
 tabby_cat = "\tI'm tabbed in."
 persian_cat = "I'm split\non a line."

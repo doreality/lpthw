@@ -1,4 +1,4 @@
-# ex35.py 分支和函数
+"""ex35.py 分支和函数"""
 
 from sys import exit
 

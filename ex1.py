@@ -1,5 +1,7 @@
-# ex1.py 第一个程序
-# 文本编辑器 + 命令行
+"""
+ex1.py 第一个程序
+文本编辑器 + 命令行
+"""
 
 print("Hello World!")
 print("Hello Again")

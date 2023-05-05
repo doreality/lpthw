@@ -1,4 +1,4 @@
-# ex33.py While 循环
+"""ex33.py While 循环"""
 
 i = 0
 numbers = []

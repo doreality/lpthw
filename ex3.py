@@ -1,24 +1,25 @@
-# ex3.py 数字和数学
+"""
+ex3.py 数字和数学
 
-# + plus
-# - minus
-# * asterisk
-# / slash
-# % percent 取模——取余数
-# < less-than
-# <= less-than-equal
-# > greater-than
-# >= greater-than-equal
++ plus
+- minus
+* asterisk
+/ slash
+% percent 取模——取余数
+< less-than
+<= less-than-equal
+> greater-than
+>= greater-than-equal
 
 
-# PEMDAS = PE(M&D)(A&S)
-# Parentheses ()
-# Exponents ** （ ^ = XOR )
-# Multiplication *
-# Division /
-# Addition +
-# Subtraction -
-
+PEMDAS = PE(M&D)(A&S)
+Parentheses ()
+Exponents ** （ ^ = XOR )
+Multiplication *
+Division /
+Addition +
+Subtraction -
+"""
 
 # explain what to do next: count chickens
 print("I will now count my chickens:")

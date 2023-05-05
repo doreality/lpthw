@@ -1,4 +1,4 @@
-# ex23.py 字符串，字节和字符编码
+"""ex23.py 字符串，字节和字符编码"""
 
 # encode / decode => bytes
 

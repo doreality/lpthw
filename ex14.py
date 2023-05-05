@@ -1,4 +1,4 @@
-# ex14.py 提示和传递
+"""ex14.py 提示和传递"""
 
 from sys import argv
 

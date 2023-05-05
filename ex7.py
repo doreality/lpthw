@@ -1,4 +1,4 @@
-# ex7.py 更多打印
+"""ex7.py 更多打印"""
 
 print("Mary had a little lamb.")
 # 比较短的字符串应该用单引号，而长的用双引号

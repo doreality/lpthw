@@ -1,4 +1,4 @@
-# ex32.py 循环和列表
+"""ex32.py 循环和列表"""
 
 the_count = [1, 2, 3, 4, 5]
 fruits = ['apples', 'oranges', 'pears', 'apricots']

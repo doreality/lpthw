@@ -1,3 +1,5 @@
+"""ex26.py 恭喜你，来做个测试吧！"""
+
 from sys import argv
 
 print("How old are you?", end=' ')

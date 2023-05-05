@@ -1,4 +1,4 @@
-# ex29.py if 语句
+"""ex29.py if 语句"""
 
 people = 20
 cats = 30

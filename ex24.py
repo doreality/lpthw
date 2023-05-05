@@ -1,4 +1,4 @@
-# ex24.py 更多练习
+"""ex24.py 更多练习"""
 
 print("Let's practice everything.")
 print('You\'d need to know \'bout escape with \\ that do:')

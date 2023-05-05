@@ -1,4 +1,5 @@
-# ex21.py 函数可以返回一些东西
+"""ex21.py 函数可以返回一些东西"""
+
 
 def add(a, b):
     print(f"ADDING {a} + {b}")

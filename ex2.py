@@ -1,9 +1,11 @@
-# ex2.py 注释和井号
-# '#'：octothorpe / pound character
-# 倒着检查代码：从最后一行开始向上逐行对比
+"""
+ex2.py 注释和井号
+'#': octothorpe / pound character
+倒着检查代码：从最后一行开始向上逐行对比
 
-# A comment, this is so you can read your program later.
-# Anything after the # is ignored by python.
+A comment, this is so you can read your program later.
+Anything after the # is ignored by python.
+"""
 
 print("I could have code like this.")  # and the comment after
 # You can also use a comment to "disable" or comment out code
