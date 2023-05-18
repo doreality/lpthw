@@ -91,7 +91,7 @@ def convert(snippet, phrase):
         param_names.append(','.join(random.sample(WORDS, param_count)))
 
     for sentence in snippet, phrase:
-        result = sentence[:]
+        result = sentence[:]  # slice 创建了一个列表副本，而不是指向同一个列表对象
 
         # fake class names
         for word in class_names:
